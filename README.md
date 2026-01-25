@@ -1,5 +1,5 @@
 
-# **BobTheRipper **
+# **BobTheRipper**
 
 BobTheRipper est un outil simple et extensible de **brute‑force de hash** écrit en Python.  
 Il permet de retrouver un mot de passe à partir d’un hash en parcourant une wordlist, avec une barre de progression et plusieurs algorithmes supportés.
