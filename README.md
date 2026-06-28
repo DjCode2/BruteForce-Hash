@@ -54,10 +54,4 @@ BobTheRipper/
 
 ---
 
-## **Objectif**
-BobTheRipper est conçu pour être :
-- **simple à comprendre**
-- **facile à étendre**, il sera d'ailleurs sans doute étendu au fur et à mesure de mes besoins !
-- **pratique en CTF**
-- **idéal pour apprendre les bases du cracking CPU**
 
